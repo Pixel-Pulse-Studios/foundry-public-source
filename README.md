@@ -10,6 +10,16 @@ The music content has been removed from this source release, and to use the asse
 (To compile this you must have raylib)
 
 ## Build Scripts:
+The main way of building Foundry is with the Makefile.
+
+On all platforms make sure to install raylib, gcc, and make
+
+On Mac/Linux just use run the command `make run` while in the foundry dir
+
+On Windows do the same but make sure to run it in git bash or something similar.
+
+On BSD operating systems it should work the same as on Mac/Linux but it has not been tested
+
 ### NPP Script:
 ```
 SET RAYLIB_PATH=D:\raylib\raylib
