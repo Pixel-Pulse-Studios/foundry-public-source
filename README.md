@@ -1,7 +1,7 @@
 # Foundry
 The C++ rewrite of the game Foundry.
 
-This is only the source code of releases of foundry. The source code for unreleased updates is not public.
+This is only the source code of releases of foundry. The source code is only released for specific versions.
 
 (MAKE SURE TO FOLLOW THE EULA TO PROCEED)
 
